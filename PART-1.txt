@@ -19,3 +19,6 @@ Common DevOps Questions
 
 --> Terraform Questions
 - How are you gonna manage modules? do you know about modules? how would you work if you upgrade them. 
+- How do you manage state files?
+- How do you handle state files conflicts? If two engineers are deploying stuff correspondingly. 
+- What do you know about statefile locking mechanism?
