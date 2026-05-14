@@ -1,7 +1,7 @@
 Common DevOps Questions
 
 --> Kubernetes Questions
-
+- What is readiness and liveness probes
 - What is helm and how do you use it. 
 - What is Requests and Memory in Pod. How do they work and the common errors (OOMkilled, CPU throttling)
 - What is PDB's and why do we need it.
